@@ -1,0 +1,16 @@
+[AutoProxy]
+/^https?:\/\/[^\/]+google[^\.]*\.(.*)/
+||gstatic.com
+||youtube.com
+||ytimg.com
+||feedly.com
+||amazonaws.com
+||doubleclick.net
+||twitter.com
+||twimg.com
+||facebook.com
+||akamaihd.net
+||sfx.ms
+||office.net
+||msecnd.net
+||live.com
