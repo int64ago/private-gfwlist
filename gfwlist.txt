@@ -15,3 +15,6 @@
 ||msecnd.net
 ||live.com
 ||angularjs.org
+||github.io
+||github.com
+||githubusercontent.com
