@@ -1,6 +1,7 @@
 [AutoProxy]
 /^https?:\/\/[^\/]+google[^\.]*\.(.*)/
 ||gstatic.com
+||ggpht.com
 ||youtube.com
 ||ytimg.com
 ||feedly.com
