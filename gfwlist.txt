@@ -18,3 +18,4 @@
 ||github.io
 ||github.com
 ||githubusercontent.com
+||typekit.com
