@@ -22,3 +22,4 @@
 ||typekit.com
 ||plnkr.co
 ||addthis.com
+||rawgit.com
