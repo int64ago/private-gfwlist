@@ -14,3 +14,4 @@
 ||office.net
 ||msecnd.net
 ||live.com
+||angularjs.org
