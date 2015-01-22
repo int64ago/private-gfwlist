@@ -20,3 +20,5 @@
 ||github.com
 ||githubusercontent.com
 ||typekit.com
+||plnkr.co
+||addthis.com
