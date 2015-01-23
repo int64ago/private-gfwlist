@@ -1,7 +1,9 @@
 [AutoProxy]
 /^https?:\/\/[^\/]+google[^\.]*\.(.*)/
+||goo.gl
 ||gstatic.com
 ||ggpht.com
+||chrome.com
 ||youtube.com
 ||ytimg.com
 ||feedly.com
@@ -26,3 +28,7 @@
 ||w3schools.com
 ||android.com
 ||appspot.com
+||youtube-nocookie.com
+||instagram.com
+||gravatar.com
+||dnscrypt.org
