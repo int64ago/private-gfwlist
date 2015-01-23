@@ -14,6 +14,7 @@
 ||facebook.com
 ||akamaihd.net
 ||sfx.ms
+||gfx.ms
 ||office.net
 ||msecnd.net
 ||live.com
