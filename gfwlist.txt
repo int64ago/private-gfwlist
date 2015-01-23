@@ -32,3 +32,5 @@
 ||instagram.com
 ||gravatar.com
 ||dnscrypt.org
+||microsoft.com
+||akamai.net
