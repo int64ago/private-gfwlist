@@ -24,3 +24,4 @@
 ||addthis.com
 ||rawgit.com
 ||w3schools.com
+||android.com
