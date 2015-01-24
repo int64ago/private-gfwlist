@@ -35,3 +35,4 @@
 ||dnscrypt.org
 ||microsoft.com
 ||akamai.net
+||flaticon.com
