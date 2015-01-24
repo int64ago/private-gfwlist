@@ -40,3 +40,4 @@
 ||appspot.com
 /^https?:\/\/[^\/]+appspot\.com/
 /^https?:\/\/[^\/]+blogspot\.(.*)/
+||blogger.com
