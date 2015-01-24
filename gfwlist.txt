@@ -36,3 +36,7 @@
 ||microsoft.com
 ||akamai.net
 ||flaticon.com
+.appspot.com
+||appspot.com
+/^https?:\/\/[^\/]+appspot\.com/
+/^https?:\/\/[^\/]+blogspot\.(.*)/
