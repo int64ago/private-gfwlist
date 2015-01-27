@@ -42,3 +42,4 @@
 /^https?:\/\/[^\/]+blogspot\.(.*)/
 ||blogger.com
 ||blogblog.com
+||html5rocks.com
