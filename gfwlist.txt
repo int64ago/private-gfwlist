@@ -45,3 +45,4 @@
 ||html5rocks.com
 ||togetherjs.com
 ||fastly.net
+||v2ex.com
