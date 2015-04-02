@@ -51,7 +51,8 @@ var rules = [
   "||togetherjs.com",
   "||fastly.net",
   "||v2ex.com",
-  "||wireshark.org"
+  "||wireshark.org",
+  "||edgefonts.net"
 ];
 
 /*

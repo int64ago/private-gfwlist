@@ -47,3 +47,4 @@
 ||fastly.net
 ||v2ex.com
 ||wireshark.org
+||edgefonts.net
