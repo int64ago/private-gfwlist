@@ -52,7 +52,8 @@ var rules = [
   "||fastly.net",
   "||v2ex.com",
   "||wireshark.org",
-  "||edgefonts.net"
+  "||edgefonts.net",
+  "||ourceforge.net"
 ];
 
 /*
