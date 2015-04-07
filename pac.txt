@@ -53,7 +53,8 @@ var rules = [
   "||v2ex.com",
   "||wireshark.org",
   "||edgefonts.net",
-  "||sourceforge.net"
+  "||sourceforge.net",
+  "||chromium.org"
 ];
 
 /*

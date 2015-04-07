@@ -49,3 +49,4 @@
 ||wireshark.org
 ||edgefonts.net
 ||sourceforge.net
+||chromium.org
