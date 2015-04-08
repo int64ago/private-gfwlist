@@ -50,3 +50,4 @@
 ||edgefonts.net
 ||sourceforge.net
 ||chromium.org
+||gitbooks.io

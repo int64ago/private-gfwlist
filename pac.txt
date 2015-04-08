@@ -54,7 +54,8 @@ var rules = [
   "||wireshark.org",
   "||edgefonts.net",
   "||sourceforge.net",
-  "||chromium.org"
+  "||chromium.org",
+  "||gitbooks.io"
 ];
 
 /*
