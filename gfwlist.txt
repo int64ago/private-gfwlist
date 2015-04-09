@@ -51,3 +51,4 @@
 ||sourceforge.net
 ||chromium.org
 ||gitbooks.io
+||imgur.com
