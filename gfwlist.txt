@@ -53,3 +53,4 @@
 ||gitbooks.io
 ||imgur.com
 ||xda-developers.com
+||gmail.com

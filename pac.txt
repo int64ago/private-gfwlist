@@ -57,7 +57,8 @@ var rules = [
   "||chromium.org",
   "||gitbooks.io",
   "||imgur.com",
-  "||xda-developers.com"
+  "||xda-developers.com",
+  "||gmail.com"
 ];
 
 /*
