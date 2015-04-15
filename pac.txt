@@ -59,7 +59,8 @@ var rules = [
   "||imgur.com",
   "||xda-developers.com",
   "||gmail.com",
-  "||edgekey.net"
+  "||edgekey.net",
+  "||shutterstock.com"
 ];
 
 /*
