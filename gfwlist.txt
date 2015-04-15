@@ -54,3 +54,4 @@
 ||imgur.com
 ||xda-developers.com
 ||gmail.com
+||edgekey.net
