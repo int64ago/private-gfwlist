@@ -56,3 +56,5 @@
 ||gmail.com
 ||edgekey.net
 ||shutterstock.com
+||cloudfront.net
+||optimizely.com
