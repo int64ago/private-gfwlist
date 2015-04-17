@@ -62,7 +62,11 @@ var rules = [
   "||edgekey.net",
   "||shutterstock.com",
   "||cloudfront.net",
-  "||optimizely.com"
+  "||optimizely.com",
+  "||typekit.net",
+  "||facebook.net",
+  "||adroll.com",
+  "||segment.com"
 ];
 
 /*

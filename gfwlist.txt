@@ -58,3 +58,7 @@
 ||shutterstock.com
 ||cloudfront.net
 ||optimizely.com
+||typekit.net
+||facebook.net
+||adroll.com
+||segment.com
