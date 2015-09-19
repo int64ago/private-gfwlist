@@ -62,3 +62,4 @@
 ||adroll.com
 ||segment.com
 ||digitalocean.com
+||cloudfront.net
