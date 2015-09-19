@@ -61,3 +61,4 @@
 ||facebook.net
 ||adroll.com
 ||segment.com
+||digitalocean.com

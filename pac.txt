@@ -65,7 +65,8 @@ var rules = [
   "||typekit.net",
   "||facebook.net",
   "||adroll.com",
-  "||segment.com"
+  "||segment.com",
+  "||digitalocean.com"
 ];
 
 /*
