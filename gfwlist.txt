@@ -62,4 +62,5 @@
 ||adroll.com
 ||segment.com
 ||digitalocean.com
-||cloudfront.net
+||typekit.net
+||domdex.com

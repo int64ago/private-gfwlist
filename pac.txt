@@ -60,14 +60,15 @@ var rules = [
   "||gmail.com",
   "||edgekey.net",
   "||shutterstock.com",
-  "||cloudfront.net",
   "||optimizely.com",
   "||typekit.net",
   "||facebook.net",
   "||adroll.com",
   "||segment.com",
   "||digitalocean.com",
-  "||cloudfront.net"
+  "||cloudfront.net",
+  "||typekit.net",
+  "||domdex.com"
 ];
 
 /*
