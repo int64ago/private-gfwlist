@@ -65,3 +65,4 @@
 ||typekit.net
 ||domdex.com
 ||dropbox.com
+||dropboxstatic.com
