@@ -68,7 +68,8 @@ var rules = [
   "||digitalocean.com",
   "||cloudfront.net",
   "||typekit.net",
-  "||domdex.com"
+  "||domdex.com",
+  "||dropbox.com"
 ];
 
 /*
