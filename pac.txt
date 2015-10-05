@@ -73,7 +73,8 @@ var rules = [
   "||dropboxstatic.com",
   "||wordpress.com",
   "||wp.com",
-  "||sstatic.net"
+  "||sstatic.net",
+  "||office.com"
 ];
 
 /*

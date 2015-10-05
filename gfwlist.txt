@@ -69,3 +69,4 @@
 ||wordpress.com
 ||wp.com
 ||sstatic.net
+||office.com
