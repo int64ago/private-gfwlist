@@ -1,5 +1,5 @@
 [AutoProxy]
-/^https?:\/\/[^\/]+google[^\.]*\.(.*)/
+/^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/
 ||goo.gl
 ||gstatic.com
 ||ggpht.com
