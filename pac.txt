@@ -70,7 +70,9 @@ var rules = [
   "||typekit.net",
   "||domdex.com",
   "||dropbox.com",
-  "||dropboxstatic.com"
+  "||dropboxstatic.com",
+  "||wordpress.com",
+  "||wp.com"
 ];
 
 /*
